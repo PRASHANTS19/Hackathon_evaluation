@@ -1,0 +1,13 @@
+.ideaCard{
+    padding: 20px 40px;
+    border-radius: 10px;
+    background-clip: border-box;
+    box-shadow: 0 5px 15px -3px ;
+    margin: 10px auto;
+}
+
+.cards{
+    margin-top:40px;
+    width: 95vw;
+    margin:auto
+}
